@@ -1,0 +1,7 @@
+lib/
+.buildpath
+.settings
+.project
+tmp/
+backups/
+config/
